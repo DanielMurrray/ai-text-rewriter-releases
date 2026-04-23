@@ -6,16 +6,16 @@
     <description>Updates for AI Text Rewriter</description>
     <language>en</language>
     <item>
-      <title>Version 1.8.0</title>
-      <pubDate>Wed, 22 Apr 2026 16:44:48 +0000</pubDate>
-      <sparkle:version>1.8.0</sparkle:version>
-      <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+      <title>Version 1.8.1</title>
+      <pubDate>Thu, 23 Apr 2026 10:44:24 +0000</pubDate>
+      <sparkle:version>1.8.1</sparkle:version>
+      <sparkle:shortVersionString>1.8.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/DanielMurrray/ai-text-rewriter-releases/releases/download/v1.8.0/AITextRewriter-1.8.0.dmg"
-        length="4457269"
+        url="https://github.com/DanielMurrray/ai-text-rewriter-releases/releases/download/v1.8.1/AITextRewriter-1.8.1.dmg"
+        length="4460454"
         type="application/octet-stream"
-        sparkle:edSignature="INt6i5fvoU2wMVkbzNYECNEQ+o4Kw4NR4opFYg2omX6EClavtAJSXvTMGz6eRJawCTyLh/gwKG9qjKLivhBABQ==" />
+        sparkle:edSignature="xRrIOGmV8C4Y7orUqcE9LLpo4l6pGnFHZmLbKJDB+J0tFOuy31dBYrr4wS3UHUDF7bEL69d7jPVjyefINw4qCw==" />
     </item>
   </channel>
 </rss>
